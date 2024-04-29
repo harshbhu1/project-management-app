@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project-management-app/static/css/main.4faa7229.css",
+    "main.js": "/project-management-app/static/js/main.24b30290.js",
+    "static/media/no-projects.png": "/project-management-app/static/media/no-projects.339f6e03f6371942794a.png",
+    "index.html": "/project-management-app/index.html",
+    "main.4faa7229.css.map": "/project-management-app/static/css/main.4faa7229.css.map",
+    "main.24b30290.js.map": "/project-management-app/static/js/main.24b30290.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4faa7229.css",
+    "static/js/main.24b30290.js"
+  ]
+}
